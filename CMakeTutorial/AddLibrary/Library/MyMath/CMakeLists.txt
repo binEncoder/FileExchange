@@ -1,0 +1,1 @@
+add_library(MyMath ./src/my_math.cpp)

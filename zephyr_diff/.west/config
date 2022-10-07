@@ -1,0 +1,12 @@
+[manifest]
+path = zephyr
+file = west.yml
+
+[zephyr]
+base = zephyr
+
+[build]
+generator = Ninja
+board = qemu_cortex_m3
+dir-fmt = {app}__{board}
+

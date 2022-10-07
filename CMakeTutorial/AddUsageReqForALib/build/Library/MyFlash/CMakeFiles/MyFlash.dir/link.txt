@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyFlash.a CMakeFiles/MyFlash.dir/src/my_flash.cpp.o
+/usr/bin/ranlib libMyFlash.a

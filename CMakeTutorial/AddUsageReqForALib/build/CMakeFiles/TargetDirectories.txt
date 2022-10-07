@@ -1,0 +1,9 @@
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/CMakeFiles/DesignModel.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyMath/CMakeFiles/MyMath.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyMath/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyMath/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyFlash/CMakeFiles/MyFlash.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyFlash/CMakeFiles/edit_cache.dir
+/mnt/hgfs/Share/CMakeTutorial/AddUsageReqForALib/build/Library/MyFlash/CMakeFiles/rebuild_cache.dir

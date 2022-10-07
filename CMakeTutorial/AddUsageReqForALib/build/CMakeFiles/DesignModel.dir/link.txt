@@ -1,0 +1,1 @@
+/usr/lib64/ccache/c++ -Wl,-Map=DesignModel.map CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o CMakeFiles/DesignModel.dir/app/src/main.cpp.o CMakeFiles/DesignModel.dir/app/src/test_add.c.o -o DesignModel  Library/MyMath/libMyMath.a Library/MyFlash/libMyFlash.a 

@@ -1,0 +1,861 @@
+Archive member included to satisfy reference by file (symbol)
+
+Library/MyMath/libMyMath.a(my_math.cpp.o)
+                              CMakeFiles/DesignModel.dir/app/src/main.cpp.o (power)
+Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+                              CMakeFiles/DesignModel.dir/app/src/main.cpp.o (flash_copy)
+
+Merging program properties
+
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x3) and CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o (not found)
+Updated property 0xc0010001 (0x9) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x1) and CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o (0x9)
+Updated property 0xc0010002 (0x1) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x0) and CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o (0x1)
+Updated property 0xc0010001 (0x9) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x9) and Library/MyMath/libMyMath.a(my_math.cpp.o) (0x1)
+Updated property 0xc0010002 (0x1) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x1) and Library/MyMath/libMyMath.a(my_math.cpp.o) (0x0)
+Updated property 0xc0010001 (0x9) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x9) and Library/MyFlash/libMyFlash.a(my_flash.cpp.o) (0x1)
+Updated property 0xc0010002 (0x1) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x1) and Library/MyFlash/libMyFlash.a(my_flash.cpp.o) (0x0)
+Updated property 0xc0010001 (0x9) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x9) and /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o (0x1)
+Updated property 0xc0010002 (0x1) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x1) and /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o (0x0)
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (not found) and /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o (0x3)
+Updated property 0xc0010001 (0x9) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x9) and /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o (0x1)
+Updated property 0xc0010002 (0x1) to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (0x1) and /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o (0x0)
+Removed property 0xc0000002 to merge /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o (not found) and /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o (0x3)
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .note.gnu.property
+                0x0000000000000000       0x30 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0xc CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .group         0x0000000000000000        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .note.gnu.property
+                0x0000000000000000       0x30 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+ .note.gnu.property
+                0x0000000000000000       0x30 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 Library/MyMath/libMyMath.a(my_math.cpp.o)
+ .note.gnu.property
+                0x0000000000000000       0x30 Library/MyMath/libMyMath.a(my_math.cpp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+ .note.gnu.property
+                0x0000000000000000       0x30 Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .note.gnu.property
+                0x0000000000000000       0x50 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+LOAD CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+LOAD CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+LOAD CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+LOAD Library/MyMath/libMyMath.a
+LOAD Library/MyFlash/libMyFlash.a
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/libm.so
+START GROUP
+LOAD /lib64/libm.so.6
+LOAD /lib64/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc_s.so
+START GROUP
+LOAD /lib64/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc.a
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/libc.so
+START GROUP
+LOAD /lib64/libc.so.6
+LOAD /usr/lib64/libc_nonshared.a
+LOAD /lib64/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc_s.so
+START GROUP
+LOAD /lib64/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/libgcc.a
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+LOAD /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+                [!provide]                        PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x400000))
+                0x0000000000400318                . = (SEGMENT_START ("text-segment", 0x400000) + SIZEOF_HEADERS)
+
+.interp         0x0000000000400318       0x1c
+ *(.interp)
+ .interp        0x0000000000400318       0x1c /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.note.gnu.property
+                0x0000000000400338       0x40
+ .note.gnu.property
+                0x0000000000400338       0x40 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.note.gnu.build-id
+                0x0000000000400378       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x0000000000400378       0x24 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.note.ABI-tag   0x000000000040039c       0x20
+ .note.ABI-tag  0x000000000040039c       0x20 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000004003c0       0x50
+ *(.gnu.hash)
+ .gnu.hash      0x00000000004003c0       0x50 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.dynsym         0x0000000000400410      0x498
+ *(.dynsym)
+ .dynsym        0x0000000000400410      0x498 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.dynstr         0x00000000004008a8      0x6b9
+ *(.dynstr)
+ .dynstr        0x00000000004008a8      0x6b9 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.gnu.version    0x0000000000400f62       0x62
+ *(.gnu.version)
+ .gnu.version   0x0000000000400f62       0x62 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.gnu.version_d  0x0000000000400fc8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000400fc8        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.gnu.version_r  0x0000000000400fc8       0xa0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000400fc8       0xa0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.rela.dyn       0x0000000000401068       0x90
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.text._ZN18SimpleFactoryModel11Operate_AddC2Ev
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.text._ZN18SimpleFactoryModel11Operate_SubC2Ev
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.text._ZN18SimpleFactoryModel11Operate_MulC2Ev
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.text._ZN18SimpleFactoryModel11Operate_DivC2Ev
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.text._ZNSt7__cxx114stodERKNS_12basic_stringIcSt11char_traitsIcESaIcEEEPm
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ .rela.rodata._ZTVN18SimpleFactoryModel11Operate_DivE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTVN18SimpleFactoryModel11Operate_MulE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTVN18SimpleFactoryModel11Operate_SubE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTVN18SimpleFactoryModel11Operate_AddE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTVN18SimpleFactoryModel7OperateE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTIN18SimpleFactoryModel11Operate_DivE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTIN18SimpleFactoryModel11Operate_MulE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTIN18SimpleFactoryModel11Operate_SubE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTIN18SimpleFactoryModel11Operate_AddE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.rodata._ZTIN18SimpleFactoryModel7OperateE
+                0x0000000000401068        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.ro
+                0x0000000000401068       0x48 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x00000000004010b0       0x30 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ .rela.bss      0x00000000004010e0       0x18 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.gcc_except_table
+                0x00000000004010f8        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .rela.eh_frame
+                0x00000000004010f8        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.rela.plt       0x00000000004010f8      0x3d8
+ *(.rela.plt)
+ .rela.plt      0x00000000004010f8      0x3d8 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                [!provide]                        PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+ .rela.iplt     0x00000000004014d0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                [!provide]                        PROVIDE (__rela_iplt_end = .)
+                0x0000000000402000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000402000       0x1b
+ *(SORT_NONE(.init))
+ .init          0x0000000000402000       0x16 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+                0x0000000000402000                _init
+ .init          0x0000000000402016        0x5 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+
+.plt            0x0000000000402020      0x2a0
+ *(.plt)
+ .plt           0x0000000000402020      0x2a0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000402030                __errno_location@@GLIBC_2.2.5
+                0x0000000000402040                printf@@GLIBC_2.2.5
+                0x0000000000402050                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x0000000000402060                __cxa_begin_catch@@CXXABI_1.3
+                0x0000000000402070                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::c_str() const@@GLIBCXX_3.4.21
+                0x0000000000402080                strlen@@GLIBC_2.2.5
+                0x0000000000402090                std::basic_ostream<char, std::char_traits<char> >& std::endl<char, std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&)@@GLIBCXX_3.4
+                0x00000000004020a0                __cxa_allocate_exception@@CXXABI_1.3
+                0x00000000004020b0                std::__throw_invalid_argument(char const*)@@GLIBCXX_3.4
+                0x00000000004020c0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::~basic_string()@@GLIBCXX_3.4.21
+                0x00000000004020d0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_set_length(unsigned long)@@GLIBCXX_3.4.21
+                0x00000000004020e0                std::__throw_logic_error(char const*)@@GLIBCXX_3.4
+                0x00000000004020f0                __cxa_free_exception@@CXXABI_1.3
+                0x0000000000402100                strtod@@GLIBC_2.2.5
+                0x0000000000402110                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_local_data()@@GLIBCXX_3.4.21
+                0x0000000000402120                memcpy@@GLIBC_2.14
+                0x0000000000402130                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_data(char*)@@GLIBCXX_3.4.21
+                0x0000000000402140                __cxa_atexit@@GLIBC_2.2.5
+                0x0000000000402150                std::basic_ostream<char, std::char_traits<char> >& std::operator<< <std::char_traits<char> >(std::basic_ostream<char, std::char_traits<char> >&, char const*)@@GLIBCXX_3.4
+                0x0000000000402160                operator new(unsigned long)@@GLIBCXX_3.4
+                0x0000000000402170                std::ostream::operator<<(std::ostream& (*)(std::ostream&))@@GLIBCXX_3.4
+                0x0000000000402180                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::_Alloc_hider(char*, std::allocator<char> const&)@@GLIBCXX_3.4.21
+                0x0000000000402190                std::allocator<char>::~allocator()@@GLIBCXX_3.4
+                0x00000000004021a0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_data() const@@GLIBCXX_3.4.21
+                0x00000000004021b0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_S_copy_chars(char*, char const*, char const*)@@GLIBCXX_3.4.21
+                0x00000000004021c0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_dispose()@@GLIBCXX_3.4.21
+                0x00000000004021d0                std::logic_error::~logic_error()@@GLIBCXX_3.4
+                0x00000000004021e0                std::logic_error::logic_error(char const*)@@GLIBCXX_3.4.21
+                0x00000000004021f0                std::__throw_out_of_range(char const*)@@GLIBCXX_3.4
+                0x0000000000402200                std::ios_base::Init::Init()@@GLIBCXX_3.4
+                0x0000000000402210                __cxa_end_catch@@CXXABI_1.3
+                0x0000000000402220                __gxx_personality_v0@@CXXABI_1.3
+                0x0000000000402230                __cxa_throw@@CXXABI_1.3
+                0x0000000000402240                std::ostream::operator<<(int)@@GLIBCXX_3.4
+                0x0000000000402250                _Unwind_Resume@@GCC_3.0
+                0x0000000000402260                std::allocator<char>::allocator()@@GLIBCXX_3.4
+                0x0000000000402270                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_create(unsigned long&, unsigned long)@@GLIBCXX_3.4.21
+                0x0000000000402280                std::ostream::operator<<(double)@@GLIBCXX_3.4
+                0x0000000000402290                __cxa_pure_virtual@@CXXABI_1.3
+                0x00000000004022a0                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_capacity(unsigned long)@@GLIBCXX_3.4.21
+                0x00000000004022b0                std::ios_base::Init::~Init()@@GLIBCXX_3.4
+ *(.iplt)
+ .iplt          0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.plt.got        0x00000000004022c0        0x0
+ *(.plt.got)
+ .plt.got       0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x00000000004022c0      0xe64
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely
+                0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .text.unlikely.zzz
+                0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.text.exit .text.exit.*)
+ .text.exit     0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .text.exit.zzz
+                0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.text.startup .text.startup.*)
+ .text.startup  0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .text.startup.zzz
+                0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.text.hot .text.hot.*)
+ .text.hot      0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .text.hot.zzz  0x00000000004022c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000004022c0       0x35 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x00000000004022c0                _start
+                0x00000000004022f0                _dl_relocate_static_pie
+ .text          0x00000000004022f5        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ *fill*         0x00000000004022f5        0xb 
+ .text          0x0000000000402300       0xa6 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .text          0x00000000004023a6      0x556 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004023a6                SimpleFactoryModel::Operate::setFirstNum(double)
+                0x00000000004023c4                SimpleFactoryModel::Operate::getFirstNum()
+                0x00000000004023e2                SimpleFactoryModel::Operate::setSecondNum(double)
+                0x0000000000402400                SimpleFactoryModel::Operate::getSecondNum()
+                0x000000000040241e                SimpleFactoryModel::Operate::Operate()
+                0x000000000040241e                SimpleFactoryModel::Operate::Operate()
+                0x0000000000402450                SimpleFactoryModel::Operate_Add::getResult()
+                0x000000000040248a                SimpleFactoryModel::Operate_Sub::getResult()
+                0x00000000004024ce                SimpleFactoryModel::Operate_Mul::getResult()
+                0x0000000000402508                SimpleFactoryModel::Operate_Div::getResult()
+                0x00000000004025da                SimpleFactoryModel::Operate_Factory::createOperate(SimpleFactoryModel::OperateType)
+                0x0000000000402755                UseSimpleFactoryModel()
+ .text._ZN18SimpleFactoryModel11Operate_AddC2Ev
+                0x00000000004028fc       0x27 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004028fc                SimpleFactoryModel::Operate_Add::Operate_Add()
+                0x00000000004028fc                SimpleFactoryModel::Operate_Add::Operate_Add()
+ *fill*         0x0000000000402923        0x1 
+ .text._ZN18SimpleFactoryModel11Operate_SubC2Ev
+                0x0000000000402924       0x27 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000402924                SimpleFactoryModel::Operate_Sub::Operate_Sub()
+                0x0000000000402924                SimpleFactoryModel::Operate_Sub::Operate_Sub()
+ *fill*         0x000000000040294b        0x1 
+ .text._ZN18SimpleFactoryModel11Operate_MulC2Ev
+                0x000000000040294c       0x27 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x000000000040294c                SimpleFactoryModel::Operate_Mul::Operate_Mul()
+                0x000000000040294c                SimpleFactoryModel::Operate_Mul::Operate_Mul()
+ *fill*         0x0000000000402973        0x1 
+ .text._ZN18SimpleFactoryModel11Operate_DivC2Ev
+                0x0000000000402974       0x27 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000402974                SimpleFactoryModel::Operate_Div::Operate_Div()
+                0x0000000000402974                SimpleFactoryModel::Operate_Div::Operate_Div()
+ .text          0x000000000040299b      0x281 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x000000000040299b                main
+ .text._ZSt23__is_constant_evaluatedv
+                0x0000000000402c1c        0xb CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402c1c                std::__is_constant_evaluated()
+ .text._ZNSt11char_traitsIcE6lengthEPKc
+                0x0000000000402c27       0x32 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402c27                std::char_traits<char>::length(char const*)
+ .text._ZNSt7__cxx114stodERKNS_12basic_stringIcSt11char_traitsIcESaIcEEEPm
+                0x0000000000402c59       0x41 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402c59                std::__cxx11::stod(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, unsigned long*)
+ .text._ZN9__gnu_cxx11char_traitsIcE6lengthEPKc
+                0x0000000000402c9a       0x46 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402c9a                __gnu_cxx::char_traits<char>::length(char const*)
+ .text._ZZN9__gnu_cxx6__stoaIddcJEEET0_PFT_PKT1_PPS3_DpT2_EPKcS5_PmS9_EN11_Save_errnoC2Ev
+                0x0000000000402ce0       0x27 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402ce0                __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)::_Save_errno::_Save_errno()
+                0x0000000000402ce0                __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)::_Save_errno::_Save_errno()
+ *fill*         0x0000000000402d07        0x1 
+ .text._ZZN9__gnu_cxx6__stoaIddcJEEET0_PFT_PKT1_PPS3_DpT2_EPKcS5_PmS9_EN11_Save_errnoD2Ev
+                0x0000000000402d08       0x27 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402d08                __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)::_Save_errno::~_Save_errno()
+                0x0000000000402d08                __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)::_Save_errno::~_Save_errno()
+ .text._ZZN9__gnu_cxx6__stoaIddcJEEET0_PFT_PKT1_PPS3_DpT2_EPKcS5_PmS9_EN10_Range_chk6_S_chkEdSt17integral_constantIbLb0EE
+                0x0000000000402d2f       0x10 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402d2f                __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)::_Range_chk::_S_chk(double, std::integral_constant<bool, false>)
+ .text._ZN9__gnu_cxx6__stoaIddcJEEET0_PFT_PKT1_PPS3_DpT2_EPKcS5_PmS9_
+                0x0000000000402d3f       0xf6 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402d3f                double __gnu_cxx::__stoa<double, double, char>(double (*)(char const*, char**), char const*, char const*, unsigned long*)
+ *fill*         0x0000000000402e35        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_Alloc_hiderD2Ev
+                0x0000000000402e36       0x1b CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402e36                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::~_Alloc_hider()
+                0x0000000000402e36                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_Alloc_hider::~_Alloc_hider()
+ *fill*         0x0000000000402e51        0x1 
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2IS3_EEPKcRKS3_
+                0x0000000000402e52       0x9b CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402e52                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+                0x0000000000402e52                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string<std::allocator<char> >(char const*, std::allocator<char> const&)
+ .text._ZN9__gnu_cxx11char_traitsIcE2eqERKcS3_
+                0x0000000000402eed       0x21 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402eed                __gnu_cxx::char_traits<char>::eq(char const&, char const&)
+ .text._ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardC2EPS4_
+                0x0000000000402f0e       0x1a CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402f0e                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::_Guard(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*)
+                0x0000000000402f0e                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::_Guard(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >*)
+ .text._ZZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tagEN6_GuardD2Ev
+                0x0000000000402f28       0x2a CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402f28                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::~_Guard()
+                0x0000000000402f28                std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)::_Guard::~_Guard()
+ .text._ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEE12_M_constructIPKcEEvT_S8_St20forward_iterator_tag
+                0x0000000000402f52       0xe7 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000402f52                void std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::_M_construct<char const*>(char const*, char const*, std::forward_iterator_tag)
+ .text._ZSt8distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_
+                0x0000000000403039       0x31 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000403039                std::iterator_traits<char const*>::difference_type std::distance<char const*>(char const*, char const*)
+ .text._ZSt19__iterator_categoryIPKcENSt15iterator_traitsIT_E17iterator_categoryERKS3_
+                0x000000000040306a        0xb CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x000000000040306a                std::iterator_traits<char const*>::iterator_category std::__iterator_category<char const*>(char const* const&)
+ .text._ZSt10__distanceIPKcENSt15iterator_traitsIT_E15difference_typeES3_S3_St26random_access_iterator_tag
+                0x0000000000403075       0x16 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                0x0000000000403075                std::iterator_traits<char const*>::difference_type std::__distance<char const*>(char const*, char const*, std::random_access_iterator_tag)
+ .text          0x000000000040308b       0x38 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+                0x000000000040308b                test_add_int
+                0x000000000040309f                test_add_double
+ .text          0x00000000004030c3       0x35 Library/MyMath/libMyMath.a(my_math.cpp.o)
+                0x00000000004030c3                power
+ .text          0x00000000004030f8       0x2c Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+                0x00000000004030f8                flash_copy
+ .text          0x0000000000403124        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .text          0x0000000000403124        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+ *(.gnu.warning)
+
+.fini           0x0000000000403124        0xd
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000403124        0x8 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+                0x0000000000403124                _fini
+ .fini          0x000000000040312c        0x5 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000404000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000404000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000404000      0x2ea
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.cst4   0x0000000000404000        0x4 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000404000                _IO_stdin_used
+ *fill*         0x0000000000404004        0x4 
+ .rodata        0x0000000000404008        0x8 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+                0x0000000000404008                __dso_handle
+ .rodata        0x0000000000404010       0x50 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .rodata._ZTVN18SimpleFactoryModel11Operate_DivE
+                0x0000000000404060       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404060                vtable for SimpleFactoryModel::Operate_Div
+ .rodata._ZTVN18SimpleFactoryModel11Operate_MulE
+                0x0000000000404078       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404078                vtable for SimpleFactoryModel::Operate_Mul
+ .rodata._ZTVN18SimpleFactoryModel11Operate_SubE
+                0x0000000000404090       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404090                vtable for SimpleFactoryModel::Operate_Sub
+ .rodata._ZTVN18SimpleFactoryModel11Operate_AddE
+                0x00000000004040a8       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004040a8                vtable for SimpleFactoryModel::Operate_Add
+ .rodata._ZTVN18SimpleFactoryModel7OperateE
+                0x00000000004040c0       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004040c0                vtable for SimpleFactoryModel::Operate
+ .rodata._ZTIN18SimpleFactoryModel11Operate_DivE
+                0x00000000004040d8       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004040d8                typeinfo for SimpleFactoryModel::Operate_Div
+ *fill*         0x00000000004040f0       0x10 
+ .rodata._ZTSN18SimpleFactoryModel11Operate_DivE
+                0x0000000000404100       0x24 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404100                typeinfo name for SimpleFactoryModel::Operate_Div
+ *fill*         0x0000000000404124        0x4 
+ .rodata._ZTIN18SimpleFactoryModel11Operate_MulE
+                0x0000000000404128       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404128                typeinfo for SimpleFactoryModel::Operate_Mul
+ .rodata._ZTSN18SimpleFactoryModel11Operate_MulE
+                0x0000000000404140       0x24 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404140                typeinfo name for SimpleFactoryModel::Operate_Mul
+ *fill*         0x0000000000404164        0x4 
+ .rodata._ZTIN18SimpleFactoryModel11Operate_SubE
+                0x0000000000404168       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404168                typeinfo for SimpleFactoryModel::Operate_Sub
+ .rodata._ZTSN18SimpleFactoryModel11Operate_SubE
+                0x0000000000404180       0x24 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404180                typeinfo name for SimpleFactoryModel::Operate_Sub
+ *fill*         0x00000000004041a4        0x4 
+ .rodata._ZTIN18SimpleFactoryModel11Operate_AddE
+                0x00000000004041a8       0x18 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004041a8                typeinfo for SimpleFactoryModel::Operate_Add
+ .rodata._ZTSN18SimpleFactoryModel11Operate_AddE
+                0x00000000004041c0       0x24 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004041c0                typeinfo name for SimpleFactoryModel::Operate_Add
+ *fill*         0x00000000004041e4        0x4 
+ .rodata._ZTIN18SimpleFactoryModel7OperateE
+                0x00000000004041e8       0x10 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x00000000004041e8                typeinfo for SimpleFactoryModel::Operate
+ *fill*         0x00000000004041f8        0x8 
+ .rodata._ZTSN18SimpleFactoryModel7OperateE
+                0x0000000000404200       0x1f CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                0x0000000000404200                typeinfo name for SimpleFactoryModel::Operate
+ *fill*         0x000000000040421f        0x1 
+ .rodata        0x0000000000404220       0xca CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x00000000004042ec      0x16c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x00000000004042ec      0x16c /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x00000000004042ec                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x0000000000404458      0x5e4
+ *(.eh_frame)
+ .eh_frame      0x0000000000404458       0x40 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                                         0x5c (size before relaxing)
+ *fill*         0x0000000000404498        0x0 
+ .eh_frame      0x0000000000404498       0x28 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000004044c0        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .eh_frame      0x00000000004044c0      0x258 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+                                        0x270 (size before relaxing)
+ .eh_frame      0x0000000000404718      0x2a0 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                                        0x2d8 (size before relaxing)
+ .eh_frame      0x00000000004049b8       0x40 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+                                         0x58 (size before relaxing)
+ .eh_frame      0x00000000004049f8       0x20 Library/MyMath/libMyMath.a(my_math.cpp.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x0000000000404a18       0x20 Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+                                         0x38 (size before relaxing)
+ .eh_frame      0x0000000000404a38        0x4 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ *(.eh_frame.*)
+
+.gcc_except_table
+                0x0000000000404a3c       0x8f
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table
+                0x0000000000404a3c       0x4c CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .gcc_except_table
+                0x0000000000404a88       0x43 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000405d00                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x0000000000405d00        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000405d00        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000405d00       0x18
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000405d00        0x8 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .init_array    0x0000000000405d08        0x8 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .init_array    0x0000000000405d10        0x8 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000405d18        0x8
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000405d18        0x8 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000405d20       0xd0
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ *fill*         0x0000000000405d20        0x0 
+ .data.rel.ro   0x0000000000405d20       0xd0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000405d20                vtable for __cxxabiv1::__class_type_info@@CXXABI_1.3
+                0x0000000000405d80                vtable for __cxxabiv1::__si_class_type_info@@CXXABI_1.3
+                0x0000000000405dd8                typeinfo for std::logic_error@@GLIBCXX_3.4
+
+.dynamic        0x0000000000405df0      0x200
+ *(.dynamic)
+ .dynamic       0x0000000000405df0      0x200 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000405df0                _DYNAMIC
+
+.got            0x0000000000405ff0       0x10
+ *(.got)
+ .got           0x0000000000405ff0       0x10 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ *(.igot)
+                0x0000000000406fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000406000      0x160
+ *(.got.plt)
+ .got.plt       0x0000000000406000      0x160 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000406000                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ .igot.plt      0x0000000000406160        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.data           0x0000000000406160        0x4
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000406160        0x4 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000406160                data_start
+                0x0000000000406160                __data_start
+ .data          0x0000000000406164        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ .data          0x0000000000406164        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .data          0x0000000000406164        0x0 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .data          0x0000000000406164        0x0 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .data          0x0000000000406164        0x0 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+ .data          0x0000000000406164        0x0 Library/MyMath/libMyMath.a(my_math.cpp.o)
+ .data          0x0000000000406164        0x0 Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+ .data          0x0000000000406164        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .data          0x0000000000406164        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+
+.tm_clone_table
+                0x0000000000406168        0x0
+ .tm_clone_table
+                0x0000000000406168        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .tm_clone_table
+                0x0000000000406168        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+
+.data1
+ *(.data1)
+                0x0000000000406164                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000406168                . = .
+                0x0000000000406164                __bss_start = .
+
+.bss            0x0000000000406180      0x118
+ *(.dynbss)
+ *fill*         0x0000000000406180        0x0 
+ .dynbss        0x0000000000406180      0x110 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                0x0000000000406180                std::cout@@GLIBCXX_3.4
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000406290        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .bss           0x0000000000406290        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ .bss           0x0000000000406290        0x1 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .bss           0x0000000000406291        0x1 CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .bss           0x0000000000406292        0x1 CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .bss           0x0000000000406293        0x0 CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+ .bss           0x0000000000406293        0x0 Library/MyMath/libMyMath.a(my_math.cpp.o)
+ .bss           0x0000000000406293        0x0 Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+ .bss           0x0000000000406293        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .bss           0x0000000000406293        0x0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+ *(COMMON)
+                0x0000000000406298                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000406293        0x5 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000406298                . = ALIGN (0x8)
+                0x0000000000406298                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000408298        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000408298                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000408298                . = ALIGN (0x8)
+                0x0000000000406298                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000408298                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x2e /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+                                         0x8d (size before relaxing)
+ .comment       0x000000000000002e       0x2e /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+                                         0x2f (size before relaxing)
+ .comment       0x000000000000005c       0x2f CMakeFiles/DesignModel.dir/app/src/01_SimpleFactory.cpp.o
+ .comment       0x000000000000005c       0x2f CMakeFiles/DesignModel.dir/app/src/main.cpp.o
+ .comment       0x000000000000005c       0x2f CMakeFiles/DesignModel.dir/app/src/test_add.c.o
+ .comment       0x000000000000005c       0x2f Library/MyMath/libMyMath.a(my_math.cpp.o)
+ .comment       0x000000000000005c       0x2f Library/MyFlash/libMyFlash.a(my_flash.cpp.o)
+ .comment       0x000000000000005c       0x2f /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+
+.gnu.build.attributes
+                0x0000000000408298     0x1cd4
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+ .gnu.build.attributes
+                0x0000000000408298       0x24 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .gnu.build.attributes
+                0x00000000004082bc       0x6c /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crti.o
+ .gnu.build.attributes
+                0x0000000000408328       0x24 /usr/lib/gcc/x86_64-redhat-linux/12/crtbegin.o
+ .gnu.build.attributes
+                0x000000000040834c       0x24 /usr/lib/gcc/x86_64-redhat-linux/12/crtend.o
+ .gnu.build.attributes
+                0x0000000000408370       0x6c /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crtn.o
+ .gnu.build.attributes.lo.hot
+                0x00000000004083dc      0x570 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .gnu.build.attributes.lo.unlikely
+                0x000000000040894c      0x570 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .gnu.build.attributes.lo.startup
+                0x0000000000408ebc      0x570 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .gnu.build.attributes.lo.exit
+                0x000000000040942c      0x570 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+ .gnu.build.attributes.lo
+                0x000000000040999c      0x5d0 /usr/lib/gcc/x86_64-redhat-linux/12/../../../../lib64/crt1.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+ *(.debug_line_str)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(DesignModel elf64-x86-64)

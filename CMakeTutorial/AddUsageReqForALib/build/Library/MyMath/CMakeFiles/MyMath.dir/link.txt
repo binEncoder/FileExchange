@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMyMath.a CMakeFiles/MyMath.dir/src/my_math.cpp.o
+/usr/bin/ranlib libMyMath.a

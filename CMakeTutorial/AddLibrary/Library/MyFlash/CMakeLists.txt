@@ -1,0 +1,1 @@
+add_library(MyFlash ./src/my_flash.cpp)
